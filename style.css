@@ -3,6 +3,8 @@ body {
 }
 
 div {
+  border: 3px solid black;
+  border-top-width: 50px;
   width: 250px;
   background: #fcd34b;
   margin: 10px auto;
@@ -10,6 +12,10 @@ div {
 }
 
 h1 {
+  width: 200px;
+  margin: 30px auto;
+  font-size: 35px;
+  border-bottom: 3px double #161c52;
   text-align: center;
 }
 
