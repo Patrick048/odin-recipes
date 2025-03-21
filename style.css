@@ -1,0 +1,25 @@
+body {
+  background: #fff;
+}
+
+div {
+  width: 250px;
+  background: #fcd34b;
+  margin: 10px auto;
+  padding: 10px 10px 1px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  border: 3px dotted black;
+  background: #fff;
+  margin: 10px;
+  padding: 5px;
+}
+
+li {
+  padding: 5px;
+}
